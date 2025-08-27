@@ -47,8 +47,8 @@
   - python: `python>=3.8` 
 - 1.下载
 ```bash
-git clone https://github.com/your-username/your-project-name.git
-cd your-project-name
+git clone https://github.com/successfulbarrier/Det-Inference-Qt6.git
+cd Det-Inference-Qt6
 ```
 - 2.安装依赖
 ```bash
