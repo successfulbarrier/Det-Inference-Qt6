@@ -3,7 +3,7 @@
 基于Qt6开发的应用程序，集成多种目标检测算法。支持YOLOv8/YOLOv11闭集检测和Grounding DINO开集检测，提供PyTorch、ONNXRuntime和OpenVINO三种推理方式，满足不同场景下的高效推理需求。
 
 ## 2.GUI演示视频
-![gui](img/cover.mp4)
+![gui](img/cover.gif)
 
 ## 3.检测效果展示
 ![gui](img/det.png)
